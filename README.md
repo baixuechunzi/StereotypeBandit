@@ -1,18 +1,18 @@
 
-This repo includes replication codes for Inaccurate Stereotypes Can Result from Locally Rational Exploration.
+This repo includes replication codes for **Inaccurate Stereotypes Can Result from Locally Rational Exploration**.
 
 #######
 
 It has four folders: human, model, experiment, and figure. Each folder includes the following materials:
 
-- human: raw data (.xlsx), preprocessed data (.csv), descriptive and visualization analysis (.ipynb and .html), 
+- **huma**n: raw data (.xlsx), preprocessed data (.csv), descriptive and visualization analysis (.ipynb and .html), 
           and statistical analysis (.r), for both experiments.
 
-- model: simulation python code for thompson sampling and dynamic programming (.ipynb).
+- **model**: simulation python code for thompson sampling and dynamic programming (.ipynb).
 
-- experiment: javascript code, combined with Qualtrics platform, for the four experiment conditions (.js).
+- **experiment**: javascript code, combined with Qualtrics platform, for the four experiment conditions (.js).
 
-- figure: corresponding figures (.png) and demos (.mov) from the main text and the supplement in higher resolution format.
+- **figure**: corresponding figures (.png) and demos (.mov) from the main text and the supplement in higher resolution format.
 
 See more details in the main text and supplementary online materials.
 
