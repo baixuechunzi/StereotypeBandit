@@ -1,7 +1,7 @@
 
 This repo includes replication codes for Inaccurate Stereotypes Can Result from Locally Rational Exploration.
 
-#########################################################################################################
+#######
 
 It has four folders: human, model, experiment, and figure. Each folder includes the following materials:
 
@@ -16,6 +16,6 @@ It has four folders: human, model, experiment, and figure. Each folder includes 
 
 See more details in the main text and supplementary online materials.
 
-#########################################################################################################
+#######
 
 All rights reserved. Authors. 2021.
