@@ -12,7 +12,7 @@ It has four folders: human, model, experiment, and figure. Each folder includes 
 
 - experiment: javascript code, combined with Qualtrics platform, for the four experiment conditions (.js).
 
-- figure: corresponding figures from the main text and the supplement with higher resolution format (.png).
+- figure: corresponding figures (.png) and demos (.mov) from the main text and the supplement in higher resolution format.
 
 See more details in the main text and supplementary online materials.
 
